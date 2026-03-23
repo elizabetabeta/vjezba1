@@ -1,4 +1,4 @@
-Promijena
+Monika mijenja prvi redak
 Monika mijenja drugi redak
 Dodan treci redak.
 Ovo dodaje Monika
