@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-Ovo je moj prvi git projekt
-Monika mijenja drugi redak
-=======
 Promijena
-Drugi redak.
->>>>>>> b3a47b5a82aad86137c7744e8f64e6c229c0d1a3
+Monika mijenja drugi redak
 Dodan treci redak.
 Ovo dodaje Monika
